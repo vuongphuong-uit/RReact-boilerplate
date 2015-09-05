@@ -700,3 +700,7 @@ there.
 /* Larger than Desktop HD */
 .navbar {
   border-bottom: 1px solid whitesmoke; }
+
+.contact {
+  border: 1;
+  color: green; }
